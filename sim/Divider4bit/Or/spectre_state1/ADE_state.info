@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("Gate_test" "Or" "schematic" "spectre")
+descriptionText = "None"

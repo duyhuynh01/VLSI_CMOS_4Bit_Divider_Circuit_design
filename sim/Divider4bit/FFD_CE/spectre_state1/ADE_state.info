@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("Flipflop" "FFD_CE" "schematic" "spectre")
+descriptionText = "None"
